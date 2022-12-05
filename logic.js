@@ -46,9 +46,6 @@ console.log(a, b);
 // Soal no.5
 
 // Soal no.6
-array = [1, 4, 7, 9, 12];
-low = 2;
-high = 15;
 
 // Soal no.7
 
