@@ -1,7 +1,5 @@
 // Soal no. 1
 
-const { count } = require('console');
-
 int = 4;
 
 for (i = int - 1; i >= 1; i--) {
@@ -67,7 +65,6 @@ for (i = 1; i <= int; i++) {
 angka = [4, 2, 6, 88, 3, 11];
 terkecil = angka[0];
 terbesar = angka[0];
-n = count(angka);
 
 for (i = 0; i < angka.length; i++) {
   if (terbesar < angka[i]) {
